@@ -17,7 +17,7 @@
 
 <img src="./layout/layout.png" width="100%" alt="Layout Desktop" />
 <h3>Mobile</h3>
-<img src="./layout-mobile.png" width="50%" alt="Layout Desktop" />
+<img src="./layout/layout-mobile.png" width="50%" alt="Layout Desktop" />
 
 ## III. Tecnologias Utilizadas
 
