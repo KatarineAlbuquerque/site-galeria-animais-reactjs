@@ -1,7 +1,7 @@
 ## Site Galeria de Animais
 ### Projeto React Js
 
-#### Link do Projeto: <a href="https://katarinealbuquerque.github.io/site-galeria-animais-reactjs/public">Abrir Site Galeria de Animais</a>
+#### Link do Projeto: <a href="https://katarinealbuquerque.github.io/site-galeria-animais-reactjs/build">Abrir Site Galeria de Animais</a>
 
 ## I. Sobre o Projeto
 
